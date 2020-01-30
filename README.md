@@ -1,0 +1,2 @@
+# shell
+Ejercicios en shell
